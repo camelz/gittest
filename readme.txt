@@ -11,3 +11,4 @@ add 02
 Creating a new branch is quick and simple.
 
 no-ff
+xxx is a free software.
