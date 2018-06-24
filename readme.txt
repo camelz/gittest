@@ -8,4 +8,4 @@ add 02
 
 2018-06-22 update.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
