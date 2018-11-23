@@ -15,4 +15,4 @@ xxx is a free software.
 bug bug bug 
 
 
-2018-11-23 14:20 test by camlez from idea.
+2018-11-23 14:20 test from idea.
